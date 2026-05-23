@@ -1,9 +1,9 @@
 # 8048-sim
-Minimal Rust prototype emulator for the 8048 instruction set.
+Minimal Rust prototype simulator for the 8048 instruction set.
 
 **Status**
 
-    Partial 8048 emulator (subset). Work-in-progress;
+    Partial 8048 simulator (subset). Work-in-progress;
     I have currently implemented:
     Program counter
     Two 8-register banks and an 8-bit accumulator.
