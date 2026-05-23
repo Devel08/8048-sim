@@ -1,5 +1,6 @@
 # 8048-sim
-Minimal Rust prototype simulator for the 8048 instruction set.
+Minimal Rust prototype simulator for the 8048 instruction set.<br>
+That is an educational project not meant for actual use.
 
 **Status**
 
